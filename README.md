@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ed5ee0f4-db6e-4db4-8d2c-97f502fc77e8/deploy-status)](https://app.netlify.com/sites/recipes-master/deploys)
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
